@@ -12,7 +12,7 @@
         "Allowoffline": false
     },
     {
-        "device_id": "b2a19c0ba05e4cea",
+        "device_id": ["b2a19c0ba05e4cea", "29ad197df7bdcc65"],
         "key": "bhsdke",
         "expirydate": "31-10-2026",
         "Allowoffline": false
