@@ -22,5 +22,11 @@
         "key": "bhsdke",
         "expirydate": "31-10-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2fdd8b3e8138d65c" ,
+        "key": "isufyan",
+        "expirydate": "11-08-2026",
+        "Allowoffline": false
     }
 ]
